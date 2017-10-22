@@ -1,0 +1,28 @@
+#range {
+    float: left;
+    width: 50%;
+	font-size: 35px;
+}
+
+#text {
+    float: right;
+    width: 50%;
+	font-size: 35px;
+	line-height: 1.5;
+}
+
+.color-light-grey {
+	background: #D3D3D3;
+}
+
+.color-dark-grey {
+	background: #808080;
+}
+
+.border-range {
+	border: 2px solid blue;
+}
+
+.border-none {
+	border: 2px solid transparent;
+}
